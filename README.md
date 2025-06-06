@@ -7,3 +7,6 @@ Use the left and right arrow keys (or a and d) to rotate the ship clockwise and 
 
 ### Firing the Thrusters
 Use the space-bar to fire the thrusters to move forwards. 
+
+### Licensing
+The borrowed snippets of code from the aforementioned article are licensed under the included MIT license, while all original code is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
